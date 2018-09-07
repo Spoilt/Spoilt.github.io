@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Roon"
+    "name": "roon"
   },
   "urls": {
     "site": "https://Spoilt.github.io",
     "hubpress": "https://spoilt.github.io",
-    "theme": "//Spoilt.github.io/themes/casper",
+    "theme": "//Spoilt.github.io/themes/roon",
     "images": "https://Spoilt.github.io/images"
   },
   "initialisationConfigComponent": {
